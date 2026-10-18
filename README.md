@@ -1,6 +1,6 @@
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=NARRI%20AKHIL&fontSize=60&fontColor=ffffff&font=Montserrat&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=NARRI%20AKHIL&fontSize=60&fontColor=ffffff&font=Montserrat&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <h3 align="center">
   💻 B.Tech CSE Student &nbsp;|&nbsp; 🚀 Full-Stack Developer &nbsp;|&nbsp; 🧠 Problem Solver
@@ -10,8 +10,6 @@
   <i>Building real-world projects, learning every day, and turning ideas into code.</i>
 </p>
 
-
-
 ---
 
 ## 👨‍💻 About Me
@@ -20,7 +18,7 @@
 - 💻 Interested in **Full-Stack Development**
 - 🚀 I enjoy building applications that solve real-world problems
 - 🧩 Currently improving my **Data Structures & Algorithms**
-- 🌱 Exploring modern web technologies and backend systems
+- 🌱 Exploring modern web technologies, backend systems and AI
 - ⚡ Always learning, building and experimenting
 
 ---
@@ -29,26 +27,26 @@
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
 </p>
 
-### 🗄️ Backend & Database
+### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=supabase,postgresql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgresql" />
 </p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render" />
 </p>
 
 ---
@@ -57,6 +55,7 @@
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🎟️ Virtual Queue
@@ -83,32 +82,40 @@ A mobile-first digital shopping platform designed for local grocery stores with 
 `Next.js` `Supabase` `PostgreSQL`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
-### 💎 HiddenGem
+### 📈 BharatMarkets
 
-A community-driven platform designed to help users discover local businesses and hidden gems around them.
+A real-time Indian stock market dashboard and market intelligence platform providing NSE & BSE market data, stock trends and an AI-powered market assistant.
+
+Features include live market data through Yahoo Finance, market indices, top gainers and losers, stock analysis, historical performance summaries and an interactive AI chatbot.
 
 **Tech Stack**
 
-`Next.js` `Supabase`
+`Next.js` `Python` `PostgreSQL` `Redis` `Gemini AI` `Yahoo Finance`
+
+🌐 **Live Demo:**  
+https://frontend-mauve-nu-92.vercel.app/
 
 </td>
 
 <td width="50%">
 
-### 🧠 Memora
+### 🤖 BharatMarkets AI Assistant
 
-A hackathon project focused on helping dementia patients recognize familiar people and access memory-related information.
+An AI-powered market assistant integrated into BharatMarkets that helps users understand stock trends, historical performance and market data using real-time tool-based information.
 
-**Tech Stack**
+**Features**
 
-`Web Development` `AI Concepts` `Computer Vision`
+`AI Chatbot` `Stock Analysis` `Market Trends` `NSE/BSE Data`
 
 </td>
+
 </tr>
 </table>
 
@@ -141,5 +148,7 @@ Problem Solving
 Advanced Web Development
         ↓
 Backend & Database Systems
+        ↓
+AI-Powered Applications
         ↓
 Building Real-World Projects 🚀
