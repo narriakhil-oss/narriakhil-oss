@@ -73,22 +73,6 @@ https://virtual-queue-zqfr.onrender.com/
 
 <td width="50%">
 
-### 🛒 Kirana Store
-
-A mobile-first digital shopping platform designed for local grocery stores with real-time product and inventory management.
-
-**Tech Stack**
-
-`Next.js` `Supabase` `PostgreSQL`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
 ### 📈 BharatMarkets
 
 A real-time Indian stock market dashboard and market intelligence platform providing NSE & BSE market data, stock trends and an AI-powered market assistant.
@@ -104,15 +88,36 @@ https://frontend-mauve-nu-92.vercel.app/
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%">
 
-### 🤖 BharatMarkets AI Assistant
+### 🧠 Memora
 
-An AI-powered market assistant integrated into BharatMarkets that helps users understand stock trends, historical performance and market data using real-time tool-based information.
+A hackathon project focused on helping dementia patients recognize familiar people and access memory-related information.
 
-**Features**
+The application uses AI concepts and computer vision to identify familiar faces and provide memory-related information through an intuitive interface.
 
-`AI Chatbot` `Stock Analysis` `Market Trends` `NSE/BSE Data`
+**Tech Stack**
+
+`Web Development` `AI Concepts` `Computer Vision`
+
+</td>
+
+<td width="50%">
+
+### 🛒 Kirana Store
+
+A mobile-first digital shopping platform designed for local grocery stores with real-time product and inventory management.
+
+**Tech Stack**
+
+`Next.js` `Supabase` `PostgreSQL`
+
+🌐 **Live Demo:**  
+https://kiranaflow.vercel.app/
 
 </td>
 
